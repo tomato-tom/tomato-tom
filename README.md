@@ -1,6 +1,7 @@
-自宅サーバーに興味ある
-
-クラウドも良いだろう
+興味あること
+- サーバー
+- 仮想マシン
+- 自作PC
 
 <!---
 tomato-tom/tomato-tom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
